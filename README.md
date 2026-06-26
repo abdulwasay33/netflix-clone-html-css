@@ -12,4 +12,4 @@ Developed By Abdul Wasay Roll No S24-0026
 
 **How to run:** Just open `index.html` in your browser.
 
-**Live Demo:** [https://github.com/abdulwasay33/netflix-clone-html-css]
+**Live Demo:** [(https://abdulwasay33.github.io/netflix-clone-html-css/)]
